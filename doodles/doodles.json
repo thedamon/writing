@@ -1,0 +1,8 @@
+{
+  "date": "Last Modified",
+  "layout": "layouts/doodle.njk",
+  "eleventyNavigation": {
+    "key": "Doodles",
+    "order": 3
+  }
+}
