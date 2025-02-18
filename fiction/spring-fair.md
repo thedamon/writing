@@ -24,7 +24,7 @@ Fish jumping (for joy we assume). An ancient snapping turtle. And billions and b
 
 A younger couple on the boardwalk observing that the phrase “leap frog” appropriately describes what these frogs are doing, and musing — “how disconnected are we from nature that this is the first time I’m thinking about that??”
 
-A couple, different, later, on the same boardwalk (when we come back to collect some soaked socks and a water bottle) point out a snapping turtle to us. We see its sturdy, militarized shell as it moves away -- ancient and tremendous.
+A couple, different, later, on the same boardwalk (when we come back to collect some soaked socks and a water bottle) point out a snapping turtle to us. We see its sturdy, militarized shell as it moves away — ancient and tremendous.
 
 And the kids leaping after the toads. Right into the water. T ventures right in, and nearly loses her shoes to the mud several times. S falls and needs comfort (recovers quickly like usual); strangers offer to hold the dog while I go down to him.
 
