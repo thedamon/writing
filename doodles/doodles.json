@@ -4,5 +4,6 @@
   "eleventyNavigation": {
     "key": "Doodles",
     "order": 3
-  }
+  },
+  "permalink": "{{ page.fileSlug }}/index.html"
 }
