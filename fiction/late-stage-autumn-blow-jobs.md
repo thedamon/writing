@@ -4,7 +4,7 @@ date: 2023-11-15
 tags: 
  - "poem"
  - "nature"
-teaser: "We must band together against the notion of inhabiting an ecosystem"
+teaser: "We must band together against the notion that we inhabit an ecosystem"
 ---
 
 These late-stage autumn blowjobs
