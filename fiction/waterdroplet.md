@@ -2,7 +2,7 @@
 title: "O: to be a dew droplet" 
 date: 2023-09-23
 tags: 
- - "poem"
+ - "ramble"
  - "nature"
 teaser: A stilted rumination upon dew
 ---

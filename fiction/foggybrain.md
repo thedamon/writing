@@ -3,6 +3,7 @@ title: "Foggy Brain"
 date: "2014-11-11"
 tags: 
   - "poem"
+  - "mental health"
 teaser: You have 18 pretty good reasons to just fucking go to bed, but none is quite the right balance of insightful, pragmatic and poetic.
 ---
 
