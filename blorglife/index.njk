@@ -1,0 +1,22 @@
+---
+layout: layouts/bloglife.njk
+homepage: true
+permalink: blorglife/inventorium/index.html
+---
+
+
+<div class="lead" style="margin: 50px 0 100px; font-family: sans-serif;">
+<p>Write an introduction to your blorg here. A little bit about yourself, or what you plan to write about.</p>
+<p>Have some fun with it!</p>
+<p>Happy blorging! :)</p>
+</div>
+
+
+<div class="the-loop">
+{%- for entry in collections.bloglife | reverse %} 
+<h2>↳ <a href="{{entry.url}}">{{entry.data.id}}: <span class="post-title-text">{{entry.data.title}}</span></a> ↵</h2>
+✼ <em class="date">Catalogued {{ entry.date | fullDate }}</em>
+{{ entry.content | safe }}
+<hr style="margin: 50px"/>
+{%- endfor %}
+</div>

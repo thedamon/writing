@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/bloglife.njk",
+  "permalink": "blorglife/inventorium/{{ id }}.html"
+}
