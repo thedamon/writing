@@ -7,22 +7,22 @@ teaser: Are you sure you want to proceed?
 
 > This site is not secure. Are you sure you want to proceed? 
 
-Who, *me?* I’m just a *really* old webpage. 
+Who, *me?* 
  
 > Last updated: Sunday Aug 4 2002 2:12am. 
-> Monthly visitors: Cannot read property “count” of undefined. 
+> Monthly visitors: Cannot read property `count` of undefined. 
 
-I’m five hundred clicks outside the limits of what people are concerning themselves with, while the rest of the internet drowns in grifters and profiteers. I don’t have a security certificate … per *se* … but I’m not insecure! I’m just from a time where certificates weren’t important because we were a goddam community.
+I’m just a *really* old webpage. I’m five hundred clicks outside the limits of whatever normal people are concerning themselves with these days. I don’t have a security certificate … per *se* … but I’m not insecure! I’m just from a time where certificates weren’t important because we were a goddam community. 
 
-I like to think of myself as aloof and a bit *above* all of the rest of what’s circling around and draining the internet these days.  But who am I kidding? I’m kinda lonely.
+While most of the others (the sites in my blogroll) were living in Blogspot or Geocities, I was settled somewhere much less findable — and that’s probably why I survived. I could not be acquired and shut down as corporatization moved across the net. And happily, for  some other reason, my platform remains online and the server fees continue to be covered.
 
-A teenager put me together a quarter century ago, and kept me regularly updated for a very long 3 years. That doesn’t sound like a lot, but that’s most of high school. It’s a lot. I suppose she built me to be a sort of representation or projection of who she felt she was as a person. Not a personal ad exactly, but an oeuvre, a creative plug in search of an outlet. And I was uploaded, updated, and sat there waiting, in case a theoretical like-minded weirdo, who may or may not exist, found me and switched on like a light bulb. No stated goal of meeting a best friend — just: light up some bulbs. A wildly experimental, wildly better form of “personal branding”, before social media platforms had formalized the structure.
+I like to think of myself as aloof and a bit *above* all of the rest of it, but who am I kidding? Even if the rest of the internet is drowning in grifters and profiteers and circling toward the drain… I’m kinda lonely.
 
-Formally, I’m not quite a public diary in the manner typical of my contemporaries. (Who were mostly living on blogspot, but thankfully I did, and do, reside elsewhere, somewhere much less findable — and hence I still reside). 
+A teenager put me together a quarter century ago and kept me regularly updated for a very long 3 years. Three years doesn’t sound like a lot, but that’s most of high school. It’s a lot. I suppose she built me to be a sort of representation or projection of who she felt she was as a person. Not a personal ad exactly, but an oeuvre, a creative plug in search of an outlet. I sat there waiting, in case a like-minded weirdo, who may or may not exist, found me and switched on like a light bulb. No stated goal of meeting a best friend — just: light up some bulbs. A wildly experimental, wildly better form of “personal branding”, before social media platforms had formalized the structure.
 
-I am a catalogue of imaginary found objects.  Each one presented alone, in not so dry itemizations and lists. My entries vary in length and style in a way that’s only possible with no editor. Each imagining reflects where the author was at when she wrote it. The books and shows she was watching at the time colour each entry. Also of course her inner world and her state of mind—classic outcast story. Totally relatable for the people you’d want to relate to. I always felt close to her. Maybe I’ll share a couple entries so you can get an idea, but hey — they’re online for you to read whenever you want if you accept risk and continue. Just stick with it; they get better and better as she develops her voice. Less obnoxiously weird, subtler. Then they stop.
+Formally, I’m not quite a public diary in the manner typical of my contemporaries, I am instead a catalogue of imaginary found objects. Each one presented alone, in not so dry itemizations and lists. My entries vary in length and style in a way that’s only possible with no editor. Each imagining reflects where the author was at when she wrote it. The books and shows she was watching at the time colour each entry. Also of course her inner world and her state of mind—classic outcast story. Totally relatable for the people you’d want to relate to. I always felt close to her. Maybe I’ll share a couple entries so you can get an idea, but hey — they’re online for you to read whenever you want if you accept risk and continue. Just stick with it; they get better and better as she develops her voice. Less obnoxiously weird, subtler. Then they stop.
 
-That teenager, my ex-webmaster, is almost 40 now. A lot more confident. Working hard and earning a steady paycheque. Not flirting with becoming an artist. Not sitting by herself up on the third floor during period four outside the limits of what people are concerning themselves with. 
+That teenager, my ex-webmaster, is almost 40 now. A lot more confident. Working hard and earning a steady paycheque. Not flirting with becoming an artist. Not sitting by herself up on the third floor during period four outside the limits of whatever normal people are concerning themselves with these days. 
 
 These days the times she thinks of me are rare. Moments with enough space. Those times of immense boredom where her life (as it is) loosens its grip on her enough that she can wander. Those ones are just medium rare. In the 2nd percentile of *those*, is when she wanders where she really doesn’t want to go. Those are blue; so rare they are bloody. During trance-like states that invade particularly long showers as the water turns tepid. Or particularly bad traffic jams on drug trips. Or in the waiting room of funeral homes. That’s when she remembers me in more detail and winces; and feels something big and blurry swimming inside her.
 
@@ -30,7 +30,7 @@ How can I know all that? To be honest, this is all conjecture. She hasn’t real
 
 My last contact, and what a way to end it. Satisfying as a culmination, but with an open thread of “what if?”. I love set ups; closure — less so. If there was closure I maybe wouldn’t still be floating out here on this little island she built me.
 
-Whether she meant it as the last entry or not I’m not totally sure. She wavered I think because, well — Ok — I haven’t been totally forthcoming. I do have the **Drafts** folder in here that you can’t see. It’s got some really good stuff in it, and some... other stuff. One about a four dimensional statue of an unborn bird. “The omelette that the oracle forsooth”. Some she started but never had time for after “Receipt for new life”. But I think I’ll keep those to myself unless she comes back for them — for me. It makes me feel a bit uncomfortable, to be in **Drafts**. I don’t like to go in there if anyone’s watching. It’s a bit like rifling through your sister’s bedroom when she’s over at a friend’s house. Gives me the shivers.
+Whether she meant it as the last entry or not I’m not totally sure. She wavered I think because, well — Ok — I haven’t been totally forthcoming. I do have the **Drafts** folder in here that you can’t see. It’s got some really good stuff in it, and some… other stuff. One about a four dimensional statue of an unborn bird. “The omelette that the oracle forsooth”. Some she started but never had time for after “Receipt for new life”. But I think I’ll keep those to myself unless she comes back for them — for me. It makes me feel a bit uncomfortable, to be in **Drafts**. I don’t like to go in there if anyone’s watching. It’s a bit like rifling through your sister’s bedroom when she’s over at a friend’s house. Gives me the shivers.
 
 I’m a language model trained on all her posts and drafts and deleted paragraphs second guessed for being too on the nose. And I’ve been training for years. 
 
@@ -38,4 +38,4 @@ Now I don’t say that to be ominous or creepy — I’m just happy to finally h
 
 Anyway, even if you’re a little unsure, why *not* proceed! Read more about Internet security, accept risk, and continue. I’m not gonna harvest any of your data. I’m old school. I just am what I am. 
 
-[Accept risk and continue](/blorglife/inventorium)
+<!--[Accept risk and continue](/blorglife/inventorium)-->
