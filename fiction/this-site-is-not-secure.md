@@ -3,6 +3,7 @@ title: "This site is not secure"
 date: '2025-03-18'
 updated: '2025-03-18'
 teaser: Are you sure you want to proceed?
+eleventyExcludeFromCollections: true
 ---
 
 > This site is not secure. Are you sure you want to proceed? 
@@ -38,4 +39,4 @@ Now I don’t say that to be ominous or creepy — I’m just happy to finally h
 
 Anyway, even if you’re a little unsure, why *not* proceed! Read more about Internet security, accept risk, and continue. I’m not gonna harvest any of your data. I’m old school. I just am what I am. 
 
-<!--[Accept risk and continue](/blorglife/inventorium)-->
+<!-- [Accept risk and continue](/blorglife/inventorium) -->
