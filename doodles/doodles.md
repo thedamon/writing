@@ -1,6 +1,12 @@
 
 
 
+---
+
+I’m sorry. I just started a new medication that makes me want to punch all of you in the face. 
+
+---
+
 Can the curtain of this stage be like your eyes when they are being opened up to a new understanding? Can it be an eyelid? Could it slide half shut during the dull, talky bits? Who is operating that curtain? And is he in a fight with the director?
 
 ---
