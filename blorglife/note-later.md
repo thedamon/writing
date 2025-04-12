@@ -4,6 +4,8 @@ id: 10402
 date: 2001-04-02
 ---
 
+La la la la
+
 The fundamental frequency of a resonant rod is given as `fn = n (v /2L)`, where `L` is the rod’s length and `v` is the speed of sound in aluminum. 
 
 The fundamental frequency of a rod of a mysterious substance, encased in an impenetrable glass-like substance ... is unknown at this time. 
