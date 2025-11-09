@@ -1,5 +1,38 @@
+---
 
+The first snow of winter, or of autumn for whenever, brings a sharp chill that wraps cold fingers around my heart and stops me in my track. The wistfulness of cooling nights and yellowing trees gives way to a stark hush. Everyone is gone, inside with their fire and the sky is a curtained off white. We are now frozen before a drop, poised on an edge on the verge of crumbling out from under our feet.
 
+I tell Tyler this. He laughs. It’s contentment, he says. There’s no danger in it. Just a pause, breathless, at the top, to gather the past and the future in close to you and then slide onward.
+
+We agree that it’s something, but what it is is what either of us brings to it. I like his version, but it’s a little too pat.
+
+---
+
+Fiction was so different before I’d answered for myself the questions the characters have to ask. Looking out with curiosity instead of looking back with regret. How much of a different need does the theoretical fill now?
+
+---
+
+I’ve been working on a thought. It’s good. It might even be a *dinner party* sort of thought. I really think it’s ready, and I’d like to present it at a fancy professor brain dinner. If you know of any in the area, let me know. I’m not the sort that gets invited to those, but I’ll worm my way in if I can. I bet I can get in with a little wriggle and a little bit of help from you.
+
+---
+
+Just give it time. Well — It took him almost a year, but finally his eyes adjusted to the darkness.
+
+---
+
+I found a cahoot behind the shed.
+
+---
+
+I like that. That's a good idea. Our conversations. I don't have anything to say. Did you have anything — you said there was some juices? tell me about your juices.
+
+---
+
+*Everything about this chair is the wrong height!* An exasperated airline passenger declaimed. He fumbled with all of the controls and cursed the day he was born. Annoyed, his neighbour pulled out his cellphone, looked around with *that* suspicious look and pointedly switched off of airplane mode. The airplane immediately lost 14 gigajoules of altitude, spun out of control and went into a free fall. Then his chair was *really* the wrong height. And that’s why.
+
+---
+
+He spent the next 8 days learning how to tell the difference between the sounds of mating frogs and chirping crickets
 
 ---
 

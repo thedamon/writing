@@ -1,5 +1,5 @@
 ---
-title: Paint Chip #1-1985
+title: Paint Chip \#1-1985
 id: 1-1986
 date: 2000-02-19
 ---
