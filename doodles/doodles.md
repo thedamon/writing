@@ -1,3 +1,5 @@
+My intestines are basically an action movie right now.
+
 ---
 
 The first snow of winter, or of autumn for whenever, brings a sharp chill that wraps cold fingers around my heart and stops me in my track. The wistfulness of cooling nights and yellowing trees gives way to a stark hush. Everyone is gone, inside with their fire and the sky is a curtained off white. We are now frozen before a drop, poised on an edge on the verge of crumbling out from under our feet.
