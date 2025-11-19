@@ -1,3 +1,7 @@
+Quotidian detritus was never going to capture the imagination. Social media needed some shit fights.
+
+---
+
 My intestines are basically an action movie right now.
 
 ---

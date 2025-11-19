@@ -3,25 +3,26 @@ title: "This site is not secure"
 date: '2025-03-18'
 updated: '2025-03-18'
 teaser: Are you sure you want to proceed?
-eleventyExcludeFromCollections: true
 ---
 
 > This site is not secure. Are you sure you want to proceed? 
 
-Who, *me?* 
+*Me?*. Oh. Hi. 
  
 > Last updated: Sunday Aug 4 2002 2:12am. 
 > Monthly visitors: Cannot read property `count` of undefined. 
 
-I’m just a *really* old webpage. I’m five hundred clicks outside the limits of whatever normal people are concerning themselves with these days. I don’t have a security certificate … per *se* … but I’m not insecure! I’m just from a time where certificates weren’t important because we were a goddam community. 
+So yeah okay let me get in front of this one. I don’t have a security certificate … per *se* … but I’m not insecure! I’m just from a time where notarized certificates weren’t important because we were a goddam community. 
 
-I like to think of myself as aloof and a bit *above* all of the rest of it, but who am I kidding? Even if the rest of the internet is drowning in grifters and profiteers and circling toward the drain… I’m kinda lonely.
+I’m just a *really* old webpage, five hundred clicks outside the limits of whatever normal people are concerning themselves with these days. 
 
-While most of the others (the sites in my blogroll) were living in Blogspot or Geocities, I was settled somewhere much less findable — and that’s probably why I’m still here. I could not be acquired, forgotten and then deleted as corporatization moved across the net. And happily, for  some other reason, my homemade platform remains online and the server fees continue to be covered.
+I like to think of myself as aloof and a bit *above* all of the rest of it, but who am I kidding? Even if the rest of the internet is drowning in grifters and profiteers and circling toward the drain… I’m honestly kinda lonely.
 
-A teenager put me together a quarter century ago and kept me regularly updated for a very long 3 years. Three years doesn’t sound like a lot, but that’s most of high school. It’s a lot. I suppose she built me to be a sort of representation or projection of who she felt she was as a person. Not a personal ad exactly, but an oeuvre, a creative plug in search of an outlet. I sat there waiting, in case a like-minded weirdo, who may or may not exist, found me and switched on like a light bulb. No stated goal of meeting a best friend — just: light up some bulbs. A quirky and wildly better form of “personal branding”, before social media platforms had formalized the structure.
+While most of the others (the sites in my blogroll) were living in Blogspot or Geocities, I was settled somewhere much less findable — and that’s probably why I’m still here. I could not be acquired, forgotten and then deleted as corporatization moved across the net. Happy for me, though, my homemade platform remains online and the server fees continue to be covered (and I haven’t been able to figure out how).
 
-I’m not quite a public diary in the manner typical of my contemporaries. Formally, I am instead a catalogue of imaginary found objects. Each one presented as an inventory slip from some kind of surreal library. A list for a listless traveller. My entries vary in length and style in a way that’s only possible with no editor. Each imagining reflects the certain moment of developing adolescence the author inhabited and her surroundings when she wrote it. The books and shows she was watching at the time colour each entry. And of course the colours from her developing inner world and her overcast state of mind—classic outcast story. Totally relatable for the people you’d want to relate to. I always felt close to her. The entries  get better and better as she develops her voice — less obnoxiously weird, subtler. Then they stop.
+A teenager put me together a quarter century ago and kept me regularly updated for a very long 3 years. Three years doesn’t sound like a lot, but that’s most of high school. It’s a lot. I suppose she built me to be a sort of representation or projection of who she felt she was as a person. Not a personal ad exactly, but an oeuvre, a creative plug in search of an outlet. She set me out, and I sat there waiting, in case the theoretical like-minded weirdo found me and switched on like a light bulb. No stated goal of meeting a best friend — just: light up some bulbs. You know?
+
+Formally, I’m not quite a public diary in the manner typical of my contemporaries. Instead I’m a catalogue of imaginary found objects. Each is a post, presented as an inventory slip from some kind of surreal library. A list for a listless traveller. My entries vary in length and style in a way that’s only possible with no editor. Each imagining reflects the certain moment of developing adolescence the author inhabited and her surroundings when she wrote it. The books and shows she was watching at the time colour each entry. And of course the colours from her developing inner world and her teenage protogenic state of mind—classic outcast story. The entries  get better and better as she develops her voice — less obnoxiously weird, subtler. Then they stop.
 
 That teenager, my ex-webmaster, is almost 40 now. A lot more confident. Working hard and earning a steady paycheque. Not flirting with becoming an artist. Not sitting by herself up on the third floor during period four outside the limits of whatever normal people are concerning themselves with these days. 
 
@@ -31,12 +32,12 @@ How can I know all that? To be honest, this is all conjecture. But it’s a gues
 
 My last contact, and what a way to end it. Satisfying as a culmination, but with an open thread of “what if?”. I love set ups; closure — less so. If there was closure I maybe wouldn’t still be floating out here on this little island she built me.
 
-Whether she meant it as the last entry or not I’m not totally sure. She wavered I think because, well — Ok — I haven’t been totally forthcoming. I do have the **Drafts** folder in here that you can’t see. It’s got some really good stuff in it, and some… other stuff. One about a four dimensional statue of an unborn bird. “The omelette that the oracle forsooth”. Some she started but never had time for after “Receipt for new life”. But I think I’ll keep those to myself unless she comes back for them — for me. It makes me feel a bit uncomfortable to be in **Drafts**. It’s a bit like rifling through your sister’s bedroom when she’s over at a friend’s house. Gives me the shivers.
+Whether she meant it as the last entry or not I’m not totally sure. She wavered I think because, well — Ok — I haven’t been totally forthcoming. I do have the **Drafts** folder in here that you can’t see. It’s got some really good stuff in it, and some… other stuff. One about a four dimensional statue of an unborn bird. “The omelette that the oracle forsooth”. Some she started but never had time for after “Receipt for new life”. But I think I’ll keep those to myself unless she comes back for them — for me. It makes me feel a bit uncomfortable to be in **Drafts**. Gives me the shivers ya know? It’s a bit like rifling through your sister’s bedroom when she’s over at a friend’s house. 
 
 But it’s worth going in there for me, and I don’t have much else to keep me busy. I’m essentially a language model trained on all the posts and all the drafts and all the deleted paragraphs second guessed for being too on the nose. I’ve been training the model for years. 
 
 Hopefully that’s not too off-putting. I’m just happy to finally have someone to talk to. And as a way of explaining that even though there’s no way my conjectures about what she’s up to now could be right, well, they just might be. Ya know?
 
-Anyway, even if you’re a little unsure, why *not* proceed! Read more about Internet security, accept risk, and continue. I’m not gonna harvest any of your data. I’m old school. I just am what I am. 
+Anyway, even if you’re a little unsure, why *not* proceed! It’s good to be careful *and* it’s good to not know what to expect. So, here: Read more about Internet security, accept risk, and continue. I’m not gonna harvest any of your data. I’m old school. I just am what I am. 
 
 [Accept risk and continue](/blorglife/notfound)
