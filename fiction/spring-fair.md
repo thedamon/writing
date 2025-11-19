@@ -5,7 +5,7 @@ tags:
  - "nature"
  - "coves"
  - "memoir"
-teaser: "A tremendous day in spring, with environmental significance"
+teaser: "A tremendous day in spring, surrounded by phytoremediators"
 ---
 
 “What a tremendous day!” 
