@@ -40,4 +40,4 @@ Hopefully that’s not too off-putting. I’m just happy to finally have someone
 
 Anyway, even if you’re a little unsure, why *not* proceed! It’s good to be careful *and* it’s good to not know what to expect. So, here: Read more about Internet security, accept risk, and continue. I’m not gonna harvest any of your data. I’m old school. I just am what I am. 
 
-[Accept risk and continue](/blorglife/notfound)
+[Accept risk and continue](/blorglife/inventorium/0)
