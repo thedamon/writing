@@ -1,3 +1,15 @@
+Ignoring everything to focus on everything at the expense of everything.
+
+---
+
+All my thoughts start to taste the same. They all get a “but” slapped on on the way out.
+
+---
+
+You mean “value pack” right? | What’s a “values pack”? | I put it where? | NOPE. Really not. | Not even for a thousand weekly payments of 0.01 | I know. | Listen I don’t mean to be rude, but this is very fucked up and I would like you to leave. 
+
+---
+
 Quotidian detritus was never going to capture the imagination. Social media needed some shit fights.
 
 ---
@@ -159,7 +171,7 @@ Easier, though. Less... slippery.
 
 ---
 
-Sometimes do you read the name of a city and just have your brain stutter to a stop and open wide to try and let in the possibility of what it’d be like to have lived there? To have grown up in different streets and backyards. To recognize different stores and fields and buildings. To not realize that that certain assumptions and verbal ticks are grown out of that city. Every city or town, even the ones just an hour down the road is a vast bed of possibility and experience. Smoky dive bars. 
+Sometimes do you read the name of a city and just have your brain stutter to a stop and open wide to try and let in the possibility of what it’d be like to have lived there? To have grown up in different streets and backyards. To recognize different stores and fields and buildings. To not realize that that certain assumptions and verbal ticks are grown out of that city. Every city or town, even the ones just an hour down the road is a vast fractal of possibility and experience.
 
 ---
 
